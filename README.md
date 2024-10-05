@@ -27,7 +27,7 @@ The Colombian football league is analyzed through the lens of **systems theory**
 - `Slides`: [Canva](https://www.canva.com/design/DAGSptwN2iI/qMCoVzYmWcgG_Om-18qkhA/edit?utm_content=DAGSptwN2iI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - `Paper.pdf`: [Paper](https://github.com/davidfgl/Complex-Systems-in-the-Colombian-Football-League/blob/main/Paper.pdf)
 - `TechnicalReport.pdf`: [Technical Report](https://github.com/davidfgl/Complex-Systems-in-the-Colombian-Football-League/blob/main/TechnicalReport.pdf)
-- `Poster.pdf`: [Poster]()
+- `Poster.pdf`: [Poster](https://github.com/davidfgl/Complex-Systems-in-the-Colombian-Football-League/blob/main/Poster.pdf)
 
 ## 🧠 How to Use This Repository
 
